@@ -4,6 +4,10 @@
 
 SignalDesk is a local, single-user B2B sales-development research and review application. OpenAI powers optional live company research and evidence-assisted drafting. The application enforces human review, Do Not Contact suppression, bounded API activity, and simulated-only delivery. **It does not autonomously send messages or authorize outreach.**
 
+> **External recognition — XERJ Corpus Hub (2026).** The XERJ team selected SignalDesk's bounded, read-only **Salesforce GET-only** integration for inclusion in its public code-reference corpus — for the validation, fail-closed behavior, opt-out checks, and deterministic restrictions around enterprise API access it demonstrates.
+>
+> *Selection for indexing is external recognition of an implementation — not certification, formal peer review, a universal reference standard, or proof of adoption. A direct corpus citation will be added when publicly verifiable.*
+
 ![SignalDesk SDR dashboard](docs/images/01-SignalDesk-SDR.png)
 
 ## Salesforce x SignalDesk | Client-to-Value proof of value (integration foundation)
